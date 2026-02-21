@@ -1,16 +1,20 @@
 # Bharath M
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
 </p>
 
+<h3 align="center">
+Full Stack Engineer | Systems Thinker | Problem Solver
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3500&pause=1200&color=2F80ED&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;Data+Structures+%26+Algorithms;React+%7C+Node+%7C+Java;Building+Scalable+Systems" />
+Focused on scalable backend systems, clean architecture, and performance optimization.
 </p>
 
 <p align="center">
   <a href="https://bharath2005.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1F2937?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/bharath-m-87a569259/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,95 +26,111 @@
 
 ---
 
-## Engineering Profile
+## Professional Summary
 
-Final Year B.Tech Information Technology student with strong fundamentals in software engineering and system design.
+Final Year B.Tech Information Technology student with strong foundations in:
 
-- Solid foundation in Data Structures & Algorithms  
-- Object-Oriented Programming (Java)  
-- RESTful API architecture  
-- Scalable backend development (Node.js, Express)  
-- Component-driven frontend systems (React, Angular)  
-- Database modeling and optimization (MongoDB)  
-- Version control and collaborative workflows (Git)  
+- Data Structures & Algorithms  
+- Backend Architecture & RESTful APIs  
+- System Design Fundamentals  
+- Database Modeling & Optimization  
+- Component-driven Frontend Engineering  
+
+Experienced in building production-ready applications using modern full-stack technologies.
 
 ---
 
 ## Technical Stack
 
-**Languages**  
+### Languages
 Java • Python • C • C++
 
-**Frontend**  
-React • Angular • HTML • CSS • JavaScript  
+### Frontend
+React • Angular • HTML • CSS • JavaScript
 
-**Backend**  
-Node.js • Express  
+### Backend
+Node.js • Express
 
-**Database**  
-MongoDB  
+### Database
+MongoDB
 
-**Tools**  
-Git • GitHub • Vercel • Netlify • VS Code  
+### Tools & Platforms
+Git • GitHub • Vercel • Netlify • VS Code
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,react,angular,nodejs,express,mongodb,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,react,angular,nodejs,express,mongodb,git,github&theme=dark" />
 </p>
+
+---
+
+## Core Competencies
+
+- Scalable Backend Architecture  
+- API Security & Authentication (JWT)  
+- Algorithmic Problem Solving  
+- Clean Code & Modular Design  
+- Performance Optimization  
+- Database Query Tuning  
 
 ---
 
 ## Selected Projects
 
 ### Full Stack Expense Tracker
-Designed and implemented a secure financial management system.
+
+Secure financial management platform with:
 
 - JWT authentication  
-- RESTful API design  
-- Modular backend architecture  
+- Modular backend structure  
+- REST API architecture  
 - Dashboard analytics  
-- Responsive frontend  
+- Fully responsive UI  
 
-Tech: React • Node.js • Express • MongoDB  
+**Tech:** React • Node.js • Express • MongoDB  
 
 ---
 
 ### Personal Portfolio Platform
-Engineered a modern, performance-optimized developer portfolio.
+
+Modern, performance-optimized developer portfolio.
 
 - Component-based architecture  
 - Smooth UI interactions  
+- SEO optimized  
 - Fully responsive design  
 
-Live: https://bharath2005.vercel.app/
+Live:  
+👉 https://bharath2005.vercel.app/
 
 ---
 
 ### Student Management System
-Developed a structured CRUD-based application with clean data handling.
 
-Tech: Java  
+Structured CRUD-based application with clean data handling.
+
+**Tech:** Java  
 
 ---
 
-## GitHub Activity
+## Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathmurugan&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=bharathmurugan&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## Focus Areas
 
-- Writing production-grade, maintainable code  
+- Writing production-grade maintainable systems  
+- Designing scalable backend architectures  
 - Improving algorithmic efficiency  
-- Designing scalable backend systems  
-- Continuous learning and system optimization  
+- Continuous learning in distributed systems  
 
 ---
 
@@ -122,4 +142,4 @@ Medium: https://medium.com/@bharathm
 
 ---
 
-"Build scalable systems. Write clean code."
+Engineering scalable systems with clean, maintainable architecture.
