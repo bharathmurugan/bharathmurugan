@@ -1,145 +1,131 @@
-# Bharath M
-
+Bharath M
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <h3 align="center">
-Full Stack Engineer | Systems Thinker | Problem Solver
+Data Analyst | Insight Generator | Problem Solver
 </h3>
 
 <p align="center">
-Focused on scalable backend systems, clean architecture, and performance optimization.
+Focused on turning raw data into actionable insights, building dashboards, and optimizing decision-making processes.
 </p>
 
 <p align="center">
-  <a href="https://bharath2005.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bharath-m-87a569259/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@bharathm">
-    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+<a href="https://bharath2005.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/bharath-m-87a569259/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@bharathm">
+<img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 </p>
 
----
-
-## Professional Summary
-
+Professional Summary
 Final Year B.Tech Information Technology student with strong foundations in:
 
-- Data Structures & Algorithms  
-- Backend Architecture & RESTful APIs  
-- System Design Fundamentals  
-- Database Modeling & Optimization  
-- Component-driven Frontend Engineering  
+Data Analysis & Visualization
 
-Experienced in building production-ready applications using modern full-stack technologies.
+SQL Querying & Database Management
 
----
+Statistical Modeling & Hypothesis Testing
 
-## Technical Stack
+Business Intelligence Tools (Power BI, Tableau)
 
-### Languages
-Java • Python • C • C++
+Data Cleaning & Preprocessing
 
-### Frontend
-React • Angular • HTML • CSS • JavaScript
+Experienced in transforming datasets into meaningful insights and building interactive dashboards for decision support.
 
-### Backend
-Node.js • Express
+Technical Stack
+Languages
+SQL • Python • R
 
-### Database
-MongoDB
+Data Visualization
+Power BI • Tableau • Matplotlib • Seaborn
 
-### Tools & Platforms
-Git • GitHub • Vercel • Netlify • VS Code
+Database
+Oracle • MySQL • MongoDB
+
+Tools & Platforms
+Excel • Git • GitHub • VS Code • Jupyter
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,react,angular,nodejs,express,mongodb,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,git,github&theme=dark" />
 </p>
 
----
+Core Competencies
+Data Cleaning & Preprocessing
 
-## Core Competencies
+Exploratory Data Analysis (EDA)
 
-- Scalable Backend Architecture  
-- API Security & Authentication (JWT)  
-- Algorithmic Problem Solving  
-- Clean Code & Modular Design  
-- Performance Optimization  
-- Database Query Tuning  
+Dashboard Development & Reporting
 
----
+Statistical Analysis & Hypothesis Testing
 
-## Selected Projects
+Business Intelligence & KPIs
 
-### Full Stack Expense Tracker
+SQL Query Optimization
 
-Secure financial management platform with:
+Selected Projects
+Sales Analytics Dashboard
+Interactive dashboard for tracking sales performance:
 
-- JWT authentication  
-- Modular backend structure  
-- REST API architecture  
-- Dashboard analytics  
-- Fully responsive UI  
+KPI visualization (Revenue, Profit, Growth)
 
-**Tech:** React • Node.js • Express • MongoDB  
+Region-wise and product-wise breakdown
 
----
+Trend analysis with forecasting
 
-### Personal Portfolio Platform
+Automated reporting
 
-Modern, performance-optimized developer portfolio.
+Tech: Power BI • SQL • Excel
 
-- Component-based architecture  
-- Smooth UI interactions  
-- SEO optimized  
-- Fully responsive design  
+Student Performance Analysis
+Data-driven insights into academic performance:
 
-Live:  
-👉 https://bharath2005.vercel.app/
+Data cleaning & preprocessing
 
----
+Statistical correlation analysis
 
-### Student Management System
+Predictive modeling for performance trends
 
-Structured CRUD-based application with clean data handling.
+Visual reports for stakeholders
 
-**Tech:** Java  
+Tech: Python • Pandas • Matplotlib • Seaborn
 
----
+Expense Tracker (Data-Driven)
+Analyzed financial data for better budgeting:
 
-## Engineering Metrics
+SQL-based transaction queries
 
+Categorization & trend analysis
+
+Visualization of spending patterns
+
+Tech: SQL • Python • Excel
+
+Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=bharathmurugan&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://streak-stats.demolab.com?user=bharathmurugan&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
+Focus Areas
+Delivering actionable insights from complex datasets
 
-## Focus Areas
+Building interactive dashboards for business decisions
 
-- Writing production-grade maintainable systems  
-- Designing scalable backend architectures  
-- Improving algorithmic efficiency  
-- Continuous learning in distributed systems  
+Improving data quality and query efficiency
 
----
+Continuous learning in advanced analytics & machine learning
 
-## Contact
-
+Contact
 Portfolio: https://bharath2005.vercel.app/  
 LinkedIn: https://www.linkedin.com/in/bharath-m-87a569259/  
-Medium: https://medium.com/@bharathm  
-
----
-
-Engineering scalable systems with clean, maintainable architecture.
+Medium: https://medium.com/@bharathm
