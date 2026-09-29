@@ -1,7 +1,8 @@
 # Bharath M
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="C:\Users\BHARATH.M\Downloads\Data Analyst img.png"
+width="500"/>
 </p>
 
 <h3 align="center">
