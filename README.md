@@ -301,15 +301,12 @@ A data-driven financial analysis project for understanding spending patterns and
 ## 💻 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/bharathmurugan">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=bharathmurugan&theme=tokyo-night&hide_border=true"
-      width="95%"
-      alt="GitHub Activity Graph"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph-bharath.vercel.app/graph?username=bharathmurugan&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="Bharath M GitHub Activity Graph"
+  />
 </p>
-
 ---
 
 ## 🧑‍💻 GitHub Profile
