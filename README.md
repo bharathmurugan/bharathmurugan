@@ -275,27 +275,28 @@ A data-driven financial analysis project for understanding spending patterns and
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=bharathmurugan&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
+    height="180"
+    alt="Bharath M GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="Top Languages"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+    height="180"
+    alt="Bharath M Top Languages"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=bharathmurugan&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Bharath M GitHub Streak"
+  />
+</p>
 ---
 
 # 🔍 Current Focus
