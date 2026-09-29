@@ -1,131 +1,327 @@
-Bharath M
+# Bharath M
+
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <h3 align="center">
-Data Analyst | Insight Generator | Problem Solver
+  Data Analyst | SQL | Python | Power BI | Excel
 </h3>
 
 <p align="center">
-Focused on turning raw data into actionable insights, building dashboards, and optimizing decision-making processes.
+  Turning raw data into meaningful insights, interactive dashboards, and data-driven business decisions.
 </p>
 
 <p align="center">
-<a href="https://bharath2005.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/bharath-m-87a569259/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://medium.com/@bharathm">
-<img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+  <a href="https://bharath2005.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bharath-m-87a569259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@bharathm">
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
-Professional Summary
-Final Year B.Tech Information Technology student with strong foundations in:
+---
 
-Data Analysis & Visualization
+## 👨‍💻 About Me
 
-SQL Querying & Database Management
+I am a **Final Year B.Tech Information Technology student** aspiring to build a career as a **Data Analyst**.
 
-Statistical Modeling & Hypothesis Testing
+I enjoy working with data to identify patterns, generate insights, create dashboards, and support data-driven decision-making.
 
-Business Intelligence Tools (Power BI, Tableau)
+My primary areas of interest include:
 
-Data Cleaning & Preprocessing
+* 📊 Data Analysis & Visualization
+* 🧮 SQL & Database Management
+* 🐍 Python for Data Analysis
+* 📈 Power BI & Dashboard Development
+* 📗 Advanced Excel
+* 🔍 Exploratory Data Analysis
+* 📐 Statistical Analysis
+* 💡 Business Intelligence & KPI Reporting
+* 🧹 Data Cleaning & Preprocessing
 
-Experienced in transforming datasets into meaningful insights and building interactive dashboards for decision support.
+---
 
-Technical Stack
-Languages
-SQL • Python • R
+## 🎯 Data Analyst Profile
 
-Data Visualization
-Power BI • Tableau • Matplotlib • Seaborn
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+Data Transformation
+    ↓
+Exploratory Data Analysis
+    ↓
+Statistical Analysis
+    ↓
+Visualization & Dashboard
+    ↓
+Business Insights
+    ↓
+Data-Driven Decisions
+```
 
-Database
-Oracle • MySQL • MongoDB
+---
 
-Tools & Platforms
-Excel • Git • GitHub • VS Code • Jupyter
+## 🛠️ Technical Skills
+
+### 📊 Data Analysis
+
+* Data Cleaning
+* Data Transformation
+* Exploratory Data Analysis (EDA)
+* Descriptive Statistics
+* Correlation Analysis
+* Trend Analysis
+* KPI Analysis
+* Data Interpretation
+* Business Insights
+
+### 🐍 Programming & Querying
+
+* Python
+* SQL
+* R
+
+### 📈 Data Visualization
+
+* Power BI
+* Tableau
+* Excel Dashboards
+* Matplotlib
+* Seaborn
+
+### 🗄️ Databases
+
+* MySQL
+* Oracle
+* MongoDB
+
+### 📗 Excel
+
+* Advanced Excel
+* Pivot Tables
+* Pivot Charts
+* XLOOKUP
+* VLOOKUP
+* INDEX & MATCH
+* IF / IFS
+* SUMIFS / COUNTIFS
+* Conditional Formatting
+* Data Validation
+* Data Cleaning
+* Dashboard Creation
+
+### 🔧 Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Microsoft Excel
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,git,github&theme=dark"/>
 </p>
 
-Core Competencies
-Data Cleaning & Preprocessing
+---
 
-Exploratory Data Analysis (EDA)
+## 📌 Core Data Analyst Competencies
 
-Dashboard Development & Reporting
+| Area                  | Skills                                                  |
+| --------------------- | ------------------------------------------------------- |
+| Data Analysis         | EDA, Trend Analysis, KPI Analysis                       |
+| SQL                   | Joins, Subqueries, CTEs, Window Functions, Aggregations |
+| Python                | Pandas, NumPy, Matplotlib, Seaborn                      |
+| Excel                 | Pivot Tables, Lookups, Formulas, Dashboards             |
+| Power BI              | Data Modeling, DAX, Interactive Dashboards              |
+| Statistics            | Mean, Median, Correlation, Hypothesis Testing           |
+| Data Cleaning         | Missing Values, Duplicates, Outliers                    |
+| Visualization         | Charts, Reports, Business Dashboards                    |
+| Business Intelligence | KPIs, Reporting, Decision Support                       |
 
-Statistical Analysis & Hypothesis Testing
+---
 
-Business Intelligence & KPIs
+# 📊 Featured Data Analytics Projects
 
-SQL Query Optimization
+## 1. 📈 Sales Analytics Dashboard
 
-Selected Projects
-Sales Analytics Dashboard
-Interactive dashboard for tracking sales performance:
+An interactive sales analytics dashboard designed to monitor business performance and identify important sales trends.
 
-KPI visualization (Revenue, Profit, Growth)
+### Key Analysis
 
-Region-wise and product-wise breakdown
+* Total Sales & Revenue
+* Total Profit
+* Profit Margin
+* Region-wise Sales
+* City-wise Sales
+* Product-wise Sales
+* Category-wise Sales
+* Sales Representative Performance
+* Monthly Sales Trends
+* KPI Monitoring
 
-Trend analysis with forecasting
+### Tools
 
-Automated reporting
+`Power BI` `Excel` `SQL`
 
-Tech: Power BI • SQL • Excel
+---
 
-Student Performance Analysis
-Data-driven insights into academic performance:
+## 2. 🎓 Student Performance Analysis
 
-Data cleaning & preprocessing
+A data analysis project focused on understanding factors affecting student academic performance.
 
-Statistical correlation analysis
+### Key Analysis
 
-Predictive modeling for performance trends
+* Data Cleaning
+* Missing Value Handling
+* Exploratory Data Analysis
+* Subject-wise Performance
+* Student Performance Trends
+* Correlation Analysis
+* Statistical Analysis
+* Visualization of Academic Metrics
 
-Visual reports for stakeholders
+### Tools
 
-Tech: Python • Pandas • Matplotlib • Seaborn
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-Expense Tracker (Data-Driven)
-Analyzed financial data for better budgeting:
+---
 
-SQL-based transaction queries
+## 3. 💰 Expense Tracker Analysis
 
-Categorization & trend analysis
+A data-driven financial analysis project for understanding spending patterns and improving budgeting decisions.
 
-Visualization of spending patterns
+### Key Analysis
 
-Tech: SQL • Python • Excel
+* Expense Categorization
+* Monthly Spending Analysis
+* Category-wise Expenses
+* Spending Trends
+* Transaction Analysis
+* Budget Monitoring
+* SQL-based Data Analysis
+* Expense Visualization
 
-Engineering Metrics
+### Tools
+
+`SQL` `Python` `Excel`
+
+---
+
+# 📊 Data Analytics Workflow
+
+```text
+              DATA SOURCE
+                   │
+                   ▼
+            Data Collection
+                   │
+                   ▼
+             Data Cleaning
+                   │
+                   ▼
+          Data Transformation
+                   │
+                   ▼
+                 EDA
+                   │
+                   ▼
+          Statistical Analysis
+                   │
+                   ▼
+         Visualization / BI
+                   │
+                   ▼
+          Business Insights
+                   │
+                   ▼
+        Data-Driven Decisions
+```
+
+---
+
+# 📈 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://streak-stats.demolab.com?user=bharathmurugan&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=bharathmurugan&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-Focus Areas
-Delivering actionable insights from complex datasets
+---
 
-Building interactive dashboards for business decisions
+# 🔍 Current Focus
 
-Improving data quality and query efficiency
+* 📊 Data Analytics
+* 🐍 Python for Data Analysis
+* 🗄️ Advanced SQL
+* 📗 Advanced Excel
+* 📈 Power BI
+* 📐 Statistics
+* 🔎 Exploratory Data Analysis
+* 💼 Business Intelligence
+* 🤖 Machine Learning Fundamentals
 
-Continuous learning in advanced analytics & machine learning
+---
 
-Contact
-Portfolio: https://bharath2005.vercel.app/  
-LinkedIn: https://www.linkedin.com/in/bharath-m-87a569259/  
-Medium: https://medium.com/@bharathm
+# 🚀 Career Goal
+
+My goal is to start my career as a **Data Analyst** and use data to solve real-world business problems.
+
+I am continuously improving my skills in:
+
+```text
+SQL
+  +
+Excel
+  +
+Python
+  +
+Power BI
+  +
+Statistics
+  +
+Business Understanding
+      ↓
+Data Analyst
+```
+
+---
+
+# 📫 Contact
+
+<p align="left">
+
+🌐 <strong>Portfolio:</strong><br> <a href="https://bharath2005.vercel.app/">
+https://bharath2005.vercel.app/ </a>
+
+<br><br>
+
+💼 <strong>LinkedIn:</strong><br> <a href="https://www.linkedin.com/in/bharath-m-87a569259/">
+https://www.linkedin.com/in/bharath-m-87a569259/ </a>
+
+<br><br>
+
+✍️ <strong>Medium:</strong><br> <a href="https://medium.com/@bharathm">
+https://medium.com/@bharathm </a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Turning Data into Insights • Insights into Decisions • Decisions into Impact 📊</strong>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
