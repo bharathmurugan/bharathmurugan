@@ -304,7 +304,7 @@ A data-driven financial analysis project for understanding spending patterns and
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/bharathmurugan/bharathmurugan/gh-pages/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/bharathmurugan/bharathmurugan/gh-pages/github-contribution-grid-snake-dark.svg"
     width="95%"
     alt="Bharath M GitHub Contribution Activity"
   />
