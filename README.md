@@ -298,13 +298,15 @@ A data-driven financial analysis project for understanding spending patterns and
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contribution Activity
+
+<h2 align="center">🐍 GitHub Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bharathmurugan&theme=tokyo-night&hide_border=true"
+    src="https://raw.githubusercontent.com/bharathmurugan/bharathmurugan/gh-pages/github-contribution-grid-snake.svg"
     width="95%"
-    alt="GitHub Activity Graph"
+    alt="Bharath M GitHub Contribution Activity"
   />
 </p>
 ---
