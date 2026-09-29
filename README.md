@@ -304,7 +304,7 @@ A data-driven financial analysis project for understanding spending patterns and
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=bharathmurugan&theme=tokyo-night&hide_border=true"
     width="95%"
-    alt="Bharath M GitHub Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
 ---
