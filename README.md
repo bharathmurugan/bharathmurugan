@@ -1,9 +1,12 @@
 # Bharath M
 
 <p align="center">
-  <img src="./assets/Data-Analyst-img.png" width="100%" alt="Data Analyst Workspace"/>
+  <img 
+    src="./assets/data-analyst-banner.gif"
+    width="100%"
+    alt="Data Analyst Workspace"
+  />
 </p>
-
 <h3 align="center">
   Data Analyst | SQL | Python | Power BI | Excel
 </h3>
