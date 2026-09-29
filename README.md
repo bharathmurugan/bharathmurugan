@@ -271,24 +271,7 @@ A data-driven financial analysis project for understanding spending patterns and
 </p>
 
 ---
-
 # 📈 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bharathmurugan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
-    height="180"
-    alt="Bharath M GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathmurugan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-    height="180"
-    alt="Bharath M Top Languages"
-  />
-</p>
 
 <p align="center">
   <img
@@ -296,6 +279,48 @@ A data-driven financial analysis project for understanding spending patterns and
     height="180"
     alt="Bharath M GitHub Streak"
   />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=bharathmurugan&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/bharathmurugan?label=Followers&style=for-the-badge"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/bharathmurugan?label=Stars&style=for-the-badge"
+    alt="GitHub Stars"
+  />
+</p>
+
+---
+
+## 💻 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/bharathmurugan">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=bharathmurugan&theme=tokyo-night&hide_border=true"
+      width="95%"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/bharathmurugan">
+    <img
+      src="https://img.shields.io/badge/GitHub-bharathmurugan-181717?style=for-the-badge&logo=github"
+      alt="GitHub Profile"
+    />
+  </a>
 </p>
 ---
 
