@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Final Year B.Tech Information Technology student** aspiring to build a career as a **Data Analyst**.
+I am a **Graduated B.Tech Information Technology student** aspiring to build a career as a **Data Analyst**.
 
 I enjoy working with data to identify patterns, generate insights, create dashboards, and support data-driven decision-making.
 
