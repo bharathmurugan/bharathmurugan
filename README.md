@@ -1,7 +1,7 @@
 # Bharath M
 
 <p align="center">
-  <img src="C:\Users\BHARATH.M\Downloads\Data Analyst img.png"
+  <img src="C:/Users/BHARATH.M/Downloads/Data Analyst img.png"
 width="500"/>
 </p>
 
