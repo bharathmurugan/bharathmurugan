@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./assets/data_analyst_banner.gif"
+    src="./data_analyst_banner.gif"
     width="100%"
     alt="Data Analyst Workspace"
   />
